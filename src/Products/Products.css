@@ -10,13 +10,14 @@
     margin: 20px;
     border: 2px solid #ededed;
     padding: 20px;
+    width: 250px;
     cursor: pointer;
   }
   
   .card-img {
     width: 13rem;
     height: 60%;
-      object-fit: contain;
+    object-fit: contain;
     margin-bottom: 1rem;
   }
   
